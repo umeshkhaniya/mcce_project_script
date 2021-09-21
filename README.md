@@ -1,1 +1,1 @@
-This repository has the scripts for MCCE and MD  post processing analysis written and modified by me during my the research.
+This repository has the MCCE and MD post processing analysis scripts written and modified by me during the research.
